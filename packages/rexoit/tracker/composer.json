@@ -1,0 +1,20 @@
+{
+    "name": "rexoit/tracker",
+    "description": "tracks user location",
+    "type": "project",
+    "authors": [
+        {
+            "name": "RezaAlHasan",
+            "email": "rezahasan1198@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Rexoit\\Tracker\\": "src/"
+        }
+}
+}
